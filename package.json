@@ -1,11 +1,12 @@
 {
   "name": "@byqv/qv-api-gd",
   "description": "Game microservices can connect to  Game Distribution api",
-  "version": "1.0.3",
+  "version": "1.0.5",
   "main": "index.js",
   "files": [
     "src",
-    "package.json"
+    "package.json",
+    "index.js"
   ],
   "scripts": {
     "test": "mocha",
